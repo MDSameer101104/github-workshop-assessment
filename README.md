@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository is created for GitHub workshop practice (Edited in Branch A).
+This repository is created for GitHub workshop practice (Final Resolved Version).
 
 ## How to Run
 
